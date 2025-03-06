@@ -13,6 +13,8 @@
 
 ## Project Overview
 In this project, I explore the mortality in Nigeria, Benin, Chad, Cameroon, and Niger across 1970 to 2010. 
+![mortality pic](https://github.com/user-attachments/assets/45e199d1-9267-4930-9b5e-d215605d34b2)
+
 
 ## Tool Used
 - Microsoft Excel
